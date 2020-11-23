@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align = "center"> Olá, sou Guilherme 👋
+</h1>
+
+<h2>Sobre mim</h2>
+<p> Sou apaixonado por tecnologia focado em aprender back-end e front-end:computer:</p>
+
+
 
 <!--
 **kadeguilherme/kadeguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
