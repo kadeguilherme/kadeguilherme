@@ -1,7 +1,7 @@
 <h2> Olá, sou Guilherme 👋</h2>
 <p algin = "left">
 <a href="https://www.linkedin.com/in/guilherme-aguiarr"
-<img src = "https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<img src = "https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-aguiarr" /></a>
 
 
 
