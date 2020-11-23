@@ -1,9 +1,8 @@
-<h1 align = "center"> Olá, sou Guilherme 👋
-</h1>
+<h1> Olá, sou Guilherme 👋</h1>
 
-<h2>Sobre mim</h2>
-<p> Sou apaixonado por tecnologia focado em aprender back-end e front-end:computer:</p>
 
+### Sobre mim
+Sou apaixonado por tecnologia e focado em aprender back-end e front-end 💻
 
 
 <!--
