@@ -1,7 +1,11 @@
 <h2> Olá, sou Guilherme 👋</h2>
 <p algin = "left">
- <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link">
- <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/guilherme-aguiarr"
+<img src = "https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+
+
+
+<img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white" />
 </p>
 
 
