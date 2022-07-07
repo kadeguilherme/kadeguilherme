@@ -13,7 +13,7 @@
 
 
 ### Sobre mim
-- 💻 Sou apaixonado por tecnologia e focado em aprender back-end e front-end </br>
+- 💻 Sou apaixonado por tecnologia e focado em Devops, AWS e Redes de Computadores
 - :school: Atualmente estou cursando Ciência da Computação no IFB(Instituto Federal de Brasilia)
 
 
