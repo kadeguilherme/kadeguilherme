@@ -10,9 +10,10 @@
 
 
 </p>
-
-
+ <img src="https://github.com/kadeguilherme/kadeguilherme.github.io/blob/master/img/aws-certified-cloud-practitioner.png" width="100px;"/>
+ 
 ### Sobre mim
+
 - 💻 Sou apaixonado por tecnologia e focado em Devops, AWS e Redes de Computadores
 - :school: Atualmente estou cursando Ciência da Computação no IFB(Instituto Federal de Brasilia)
 
