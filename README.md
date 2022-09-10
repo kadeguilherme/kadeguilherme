@@ -1,25 +1,18 @@
 <h1 align='center'>
-  Olá, sou o Guilherme Aguiar!
+  Olá, sou o Guilherme Aguiar. 
   <br/>
-  Bem vindo a minha página :)
+  Bem vindo ao meu GitHub <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h1>
 
 
 </p>
 <p align="center">
  <img src="https://github.com/kadeguilherme/kadeguilherme.github.io/blob/master/img/aws-certified-cloud-practitioner.png" width="100px;"/>
- <img src="https://github.com/kadeguilherme/kadeguilherme.github.io/blob/master/img/Kubernetes.png" width="100px;"/>
-  <img src="https://github.com/kadeguilherme/kadeguilherme.github.io/blob/master/img/Docker1.png" width="100px;"/>
-  <img src="https://github.com/kadeguilherme/kadeguilherme.github.io/blob/master/img/CICD.png" width="100px;"/>
-  <img src="https://github.com/kadeguilherme/kadeguilherme.github.io/blob/master/img/Terrafom.png" width="100px;"/>
-  <img src="https://github.com/kadeguilherme/kadeguilherme.github.io/blob/master/img/Docker.png" width="100px;"/>
  </p>
  
 ### Sobre mim
   Cientista da Computação apaixonado pela tecnologia que pode trazer um conjunto diversificado de habilidades.</br>
   Apaixonado pelo mundo da Cloud e pela cultura Devops. Busco sempre aprimorar meus conhecimentos na área de Devops, Cloud, Automação como código, redes de computadores e CI/CD.
-  - 💻 Sou apaixonado por tecnologia e focado em Devops, AWS e Redes de Computadores
-
 </br>
 
 
