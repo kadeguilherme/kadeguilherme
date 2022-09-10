@@ -17,7 +17,7 @@
  
 ### Sobre mim
   Cientista da Computação apaixonado pela tecnologia que pode trazer um conjunto diversificado de habilidades.</br>
-  Apaixonado pelo mundo da Cloud e pela cultura Devops. Busco sempre aprimorar meus conhecimentos na área de Devops, Cloud, Automação como código, redes de computadores e CI/CD. Sou uma pessoa determinada e focado.
+  Apaixonado pelo mundo da Cloud e pela cultura Devops. Busco sempre aprimorar meus conhecimentos na área de Devops, Cloud, Automação como código, redes de computadores e CI/CD.
   - 💻 Sou apaixonado por tecnologia e focado em Devops, AWS e Redes de Computadores
 
 </br>
