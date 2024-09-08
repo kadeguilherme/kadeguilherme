@@ -1,8 +1,3 @@
-<h1 align='center'>
-  Olá, sou o Guilherme Aguiar. 
-  <br/>
-  Bem vindo ao meu GitHub <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-</h1>
 
 ```js
 import devops from "kadeguilherme";
@@ -15,8 +10,8 @@ class SobreMim extends Devops {
 
 class Skills extends Desenvolvedor {
   linguagens = ["Python, Shell Script"];}
+}
 ```
-
 
 </p>
 <p align="center">
