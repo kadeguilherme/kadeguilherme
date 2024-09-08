@@ -5,7 +5,6 @@ import devops from "kadeguilherme";
 class SobreMim extends Devops {
   nome = "Guilherme Aparecido Aguiar";
   local = "Brasilia-DF";
-  experiencia = "1 ano de estágio de TI na FozPrev - Foz Previdência";
 }
 
 class Skills extends Desenvolvedor {
